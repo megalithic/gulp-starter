@@ -8,10 +8,8 @@ Includes the following tools, tasks, and workflows:
 - Browserify (with browserify-shim)
 - Watchify (caching version of browserify for super fast rebuilds)
 - Compass
-- CoffeeScript (with source mapping!)
+- React (JSX compilation to JS)
 - jQuery (from npm)
-- Backbone (from npm)
-- Handlebars (as a backbone dependency)
 - Non common-js vendor code (like a jQuery plugin)
 - LiveReload
 - Static Server
